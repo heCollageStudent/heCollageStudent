@@ -10,6 +10,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heCollageStudent&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heCollageStudent&layout=compact&layout=compact&theme=algolia"/>
  <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=heCollageStudent&hide_border=true&theme=radical">
- [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=heCollageStudent&layout=compact&hide_border=true&theme=radical">]
 </a>
 </p>
